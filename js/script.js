@@ -7283,9 +7283,9 @@ var cases = {
 	case2: {
 		milspec: {
 			weap1: {
-				name: "M4A4 | Faded Zebra BS",
+				name: "Poggers Fart",
 
-				price: 0.85,
+				price: 10000.69,
 				img: "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou-6kejhzw8zSdD9Q7d-3mb-JgMj8NrrHj1Rd6dd2j6eR94n30AHh-0dlam_7LY-dJAU9YFrZ8lC_k-7rhZG96c_JzHFlsil0-z-DyGlAJkHo"
 
 			},
